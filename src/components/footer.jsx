@@ -14,7 +14,7 @@ function Footer() {
             <div className="footer-container">
             <img src={yellow_bg} alt="Logo" className='yellow_bg'/>
                 <div className='footer-text' >
-                    <Link to="/">
+                    <Link to="/smart-class-world/">
                     <img src={logo} alt="Logo"/>
                 </Link>
                 <span>All rights reserved 2024 © Smart Class</span>
